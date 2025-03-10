@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>DreamDress</title>
+        <style>
+            body{
+                background-color:purple ;
+            }
+            #imagrndepiano{
+                width: 100%;
+                left:0 ;
+                right: 0;
+                align-content: center;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Bienvenidos a mi pagina</h1>
+        <p>Nulla facilisi. Aenean lacinia bibendum nulla sed commensurabit. Nullam id arcu id elit tempus
+            
+        </p>
+    
